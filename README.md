@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zenith Wijeratna
+# 👋 Hi, I'm Zen
 
 🎯 Passionate about **data analysis, storytelling, and insights that drive results**.  
 💼 Currently working as a **Team Lead at AA New Zealand** and formerly a **Trade Finance Analyst at HSBC**.  
