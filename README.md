@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Zen
 
 🎯 Passionate about **data analysis, storytelling, and insights that drive results**.  
-💼 Currently working as a **Team Lead at AA New Zealand** and formerly a **Trade Finance Analyst at HSBC**.  
-📊 Skilled in building impactful dashboards with **IBM Cognos, Excel, Power BI, Tabelau, Google Looker Studio, Python and SQL**.
+💼 Currently working as a **Team Lead at AA New Zealand** and formerly a **Foreign Exchange, Payments and Debit Card Products Lead**.  
+📊 Skilled in data analysing, building impactful dashboards with **IBM Cognos, Excel, Power BI, Tabelau, Google Looker Studio, Python and SQL**.
 
 ---
 
 ## 💡 What I Do
 
 - 🔍 Data Analysis & Business Intelligence
-- 📈 Dashboard Creation and Data Analysing (Cognos, Excel, Power BI)
+- 📈 Dashboard Creation and Data Analysing (R Shiny, Cognos, Excel, Power BI, Tableau)
 - 🧠 Insight Generation for Decision Making
-- 🧰 Tools: IBM Cognos, Excel, Power BI, SQL, SAP, Jira, Confluence
+- 🧰 Tools: IBM Cognos, Python, R, SAS, Excel, Power BI, SQL, Looker Studio, SAPP, Jira, Confluence 
 
 ---
 
@@ -37,7 +37,6 @@
 ## 🌱 Currently Learning
 - Python for Data Analysis (NumPy, pandas, Matplotlib)
 - Google BigQuery & SQL
-- Advanced Excel + DAX for BI
 
 ---
 
