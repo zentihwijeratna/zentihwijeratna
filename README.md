@@ -20,7 +20,7 @@
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [Advanced Sales Dashboard](https://github.com/zentihwijeratna/advanced-cognos-sales-dashboard) | Multi-tab Cognos dashboard to track sales, margin, quantity, and customer loyalty | IBM Cognos, Excel |
-| [Coming Soon] | 📊 Power BI Retail Sales Dashboard | Power BI, DAX |
+| [Python Web Extract](https://github.com/zentihwijeratna/-Top-10-Largest-Economies-Nominal-GDP-) | World's Largest Economies Data Extractor using Python | Python 3.13, pandas, numpy, lxml, |
 | [Coming Soon] | 🧮 Excel Financial Modeling with Dynamic Charts | Excel |
 
 ---
