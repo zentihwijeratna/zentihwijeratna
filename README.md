@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Zen
 
 🎯 Passionate about **data analysis, storytelling, and insights that drive results**.  
-💼 Currently working as a **Team Lead at AA New Zealand** and formerly a **Foreign Exchange, Payments and Debit Card Products Lead**.  
+💼 Currently working as a **AA New Zealand** and formerly a **Foreign Exchange, Payments and Debit Card Products Lead**.  
 📊 Skilled in data analysing, building impactful dashboards with **IBM Cognos, Excel, Power BI, Tabelau, Google Looker Studio, Python and SQL**.
 
 ---
