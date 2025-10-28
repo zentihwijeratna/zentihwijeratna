@@ -21,7 +21,7 @@
 |--------|-------------|-------|
 | [Advanced Sales Dashboard](https://github.com/zentihwijeratna/advanced-cognos-sales-dashboard) | Multi-tab Cognos dashboard to track sales, margin, quantity, and customer loyalty | IBM Cognos, Excel |
 | [Python Web Extract](https://github.com/zentihwijeratna/-Top-10-Largest-Economies-Nominal-GDP-) | World's Largest Economies Data Extractor using Python | Python 3.13, pandas, numpy, lxml, |
-| (https://github.com/zentihwijeratna/Bright-Retail-Sales-Data-) | 🧮 Excel Financial Modeling with Dynamic Charts | Excel |
+| [Excel Dashboard](https://github.com/zentihwijeratna/Bright-Retail-Sales-Data-) | 🧮 Excel Financial Modeling with Dynamic Charts | Excel |
 
 ---
 
